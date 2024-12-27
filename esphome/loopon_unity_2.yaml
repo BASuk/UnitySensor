@@ -76,7 +76,7 @@ ota:
 
 wifi:
   fast_connect: false
-  output_power: 10
+  output_power: 18
   enable_on_boot: true
   power_save_mode: LIGHT
   ap:
