@@ -76,9 +76,9 @@ ota:
 
 wifi:
   fast_connect: false
-  output_power: 18
+  output_power: 12
   enable_on_boot: true
-  power_save_mode: LIGHT
+  power_save_mode: OFF
   ap:
   on_connect:
     - delay: 5s # Gives time for improv results to be transmitted
